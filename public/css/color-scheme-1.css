@@ -1,0 +1,153 @@
+/* Color scheme 1 for this template */
+.color-scheme-1 .nav-pills > li.active > a, 
+.color-scheme-1 .nav-pills > li.active > a:hover, 
+.color-scheme-1 .nav-pills > li.active > a:focus {
+    color: #fff;
+    background-color: #8a8a5c;
+}
+
+.color-scheme-1 .theme-text-color-light {
+    color: #b8b894;
+}
+
+.color-scheme-1 .theme-text-color-dark {
+    color: #8a8a5c;
+}
+
+.color-scheme-1 .btn-theme {
+    background-color: #8a8a5c;;
+    border-color: #8a8a5c;
+    color: #fff;
+}
+
+.color-scheme-1 .btn-theme:focus,
+.color-scheme-1 .btn-theme.focus {
+    background-color: #8a8a5c;
+    border-color: #8a8a5c;
+    color: #fff;
+}
+
+.color-scheme-1 .btn-theme:hover {
+    color: #fff;
+    background-color: #b8b894;
+    border-color: #b8b894;
+}
+
+.color-scheme-1 .btn-theme:active:hover,
+.color-scheme-1 .btn-theme.active:hover,
+.color-scheme-1 .open > .dropdown-toggle.btn-theme:hover,
+.color-scheme-1 .btn-theme:active:focus,
+.color-scheme-1 .btn-theme.active:focus,
+.color-scheme-1 .open > .dropdown-toggle.btn-theme:focus,
+.color-scheme-1 .btn-theme:active.focus,
+.color-scheme-1 .btn-theme.active.focus,
+.color-scheme-1 .open > .dropdown-toggle.btn-theme.focus {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
+
+.color-scheme-1 .btn-theme:active,
+.color-scheme-1 .btn-theme.active,
+.color-scheme-1 .open > .dropdown-toggle.btn-theme {
+    background-image: none;
+}
+
+.color-scheme-1 .btn-theme.disabled:hover,
+.color-scheme-1 .btn-theme[disabled]:hover,
+.color-scheme-1 fieldset[disabled] .btn-theme:hover,
+.color-scheme-1 .btn-theme.disabled:focus,
+.color-scheme-1 .btn-theme[disabled]:focus,
+.color-scheme-1 fieldset[disabled] .btn-theme:focus,
+.color-scheme-1 .btn-theme.disabled.focus,
+.color-scheme-1 .btn-theme[disabled].focus,
+.color-scheme-1 fieldset[disabled] .btn-theme.focus {
+    background-color: #777;
+    border-color: #777;
+}
+
+.color-scheme-1 .btn-theme .badge {
+    color: #111;
+    background-color: #fff;
+}
+
+.color-scheme-1 .navbar-theme .navbar-nav > li > a:hover,
+.color-scheme-1 .navbar-theme .navbar-nav > li > a:focus {
+    background-color: transparent;
+}
+
+.color-scheme-1 .navbar-theme .navbar-nav > .active > a::after,
+.color-scheme-1 .navbar-theme .navbar-nav > .active > a:hover ::after,
+.color-scheme-1 .navbar-theme .navbar-nav > .active > a:focus ::after{
+    background-color: #b8b894;
+}
+
+.color-scheme-1 .navbar-theme.affix .dropdown-menu {
+    background-color: #111111;
+    border: 1px solid #00000023;
+    border: 1px solid rgba(0, 0, 0, .23);
+}
+
+.color-scheme-1 .navbar-theme .dropdown-menu > .active > a, 
+.color-scheme-1 .navbar-theme .dropdown-menu > .active > a:hover, 
+.color-scheme-1 .navbar-theme .dropdown-menu > .active > a:focus {
+    background-color: #b8b894;
+}
+
+@media (max-width: 767px) {
+
+    .color-scheme-1 .navbar-theme .navbar-nav > li > a:hover,
+    .color-scheme-1 .navbar-theme .navbar-nav > li > a:focus {
+        color: #fff;
+        background-color: #8a8a5c;
+    }
+
+    .color-scheme-1 .navbar-theme .navbar-nav > .active > a,
+    .color-scheme-1 .navbar-theme .navbar-nav > .active > a:hover,
+    .color-scheme-1 .navbar-theme .navbar-nav > .active > a:focus {
+        background-color: #b8b894;
+        color: #333;
+    }
+}
+
+.color-scheme-1 .header-slider-dots .slick-active button {
+    background-color: #8a8a5c;
+    border-color: #8a8a5c;
+}
+
+.color-scheme-1 #services .media-object {
+    color: #8a8a5c;
+}
+
+.color-scheme-1 #services li:first-child .media {
+    background-color: #8a8a5c;
+}
+
+.color-scheme-1 #setup .media-object {
+    border-color: #8a8a5c;
+}
+
+.color-scheme-1 .number .counter {
+    color: #b8b894;
+}
+
+.color-scheme-1 .reviews-slider-dots .slick-active button {
+    background-color: #8a8a5c;
+    border-color: #8a8a5c;
+}
+
+.color-scheme-1 .reviewer-career {
+    color: #8a8a5c;
+}
+
+.color-scheme-1 #features ul li .icon {
+    color: #8a8a5c;
+}
+
+.color-scheme-1 #contact .block-title {
+    color: #b8b894;
+}
+
+.color-scheme-1 .article .location {
+    color: #8a8a5c;
+}
